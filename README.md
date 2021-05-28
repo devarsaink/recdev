@@ -11,6 +11,6 @@ Developed by Devaraj
 
 ~> git clone https://github.com/devarsaink/recdev
 
-~> cd recdev
+~> cd recdev 
 
-~> python3.7 -m pip3 install -r requirements.txt
+~> python3 -m pip3 install -r requirements.txt #Pip Installation
