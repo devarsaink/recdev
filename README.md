@@ -9,7 +9,7 @@ Developed by Devaraj
 
 # Installation
 
-> git clone https://github.com/devarsaink/recdev
+>git clone https://github.com/devarsaink/recdev
 
 >cd recdev 
 
