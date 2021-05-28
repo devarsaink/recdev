@@ -105,7 +105,7 @@ if args.geoip:
 	sys.exit()
 
 if args.wayback:
-	print("[+] Dumping and Crawling Internet Archive Machine With Ashok")
+	print("[+] Dumping and Crawling Internet Archive Machine With recdev")
 	waybackurl(args.wayback)
 	waybackrobots(args.wayback)
 	waybackjson(args.wayback)
